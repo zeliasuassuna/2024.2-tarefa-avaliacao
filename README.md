@@ -7,7 +7,8 @@
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
 
 ## Avaliação
-**Lembre de fazer o fork deste repositório**
+- **Lembre de fazer o fork deste repositório**
+- As questões foram construídas com o auxílio do [copilot](https://copilot.microsoft.com/)
 
 # Questão 1. Introdução a sistemas operacionais
 
@@ -128,3 +129,16 @@ Considerando os conceitos de custo de processamento e algoritmo ótimo de escalo
 
 **Copilot informa**: Essa questão incentiva os alunos a refletirem sobre a complexidade e os trade-offs envolvidos na escolha de um algoritmo de escalonamento, aplicando conceitos teóricos a contextos práticos.
 
+# Questão 5. Aplicativo em python vs aplicativos em c
+
+## Questão
+
+Explique o caminho que as instruções seguem desde um aplicativo escrito em Python e um aplicativo escrito em linguagem C até serem executadas pelo hardware. Em sua resposta, considere os seguintes pontos:
+- O papel do interpretador no caso do Python
+- O processo de compilação no caso do C
+- A interação entre o kernel do sistema operacional e os drivers de dispositivo
+- A tradução final das instruções para o formato binário (0 e 1) executado pelo hardware
+
+**Dica:** Compare e contraste os dois processos, destacando as principais diferenças e semelhanças na forma como as instruções são processadas e executadas.
+
+**Copilot informa**: Essa questão incentiva os alunos a refletirem sobre os diferentes caminhos que as instruções seguem em linguagens interpretadas e compiladas, aplicando conceitos teóricos a contextos práticos.
